@@ -1,3 +1,5 @@
+# PLEASE USE: https://github.com/AboveAphid/Litematica-Bot/tree/main I HAVE CHANGE TO A NEW ACCOUNT AND THIS REPO IS OUT OF DATE!!!
+
 Alright I can't be bothered writing the instructions right now maybe later but just watch this video which should hopefully allow you to understand:
 https://youtu.be/XytG7YPAQ8Y?si=6NbzEKPANiTp9Nx4
 
